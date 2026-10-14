@@ -13,7 +13,7 @@
 
 ## Sobre o laboratório
 
-Segundo laboratório feito em aula, uma pequena experiencia com Animações.
+Terceiro laboratório feito em aula, uma aventura no código :P.
 
 
 ## Autores
